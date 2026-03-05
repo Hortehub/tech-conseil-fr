@@ -149,7 +149,7 @@ vercel --prod
 | pc bureau gaming pas cher | 4 100/mois | Moyenne | ⭐⭐ |
 
 ---
-
+ 
 ## ⚖️ Mention légale obligatoire
 
 > *En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.*
