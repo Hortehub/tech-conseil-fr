@@ -170,5 +170,5 @@ Cette mention est déjà intégrée dans chaque article et dans le footer.
 - [ ] Newsletter automatique hebdomadaire
 
 ---
-
+<!-- SEO update -->
 *TechConseil FR — Blog affiliation Amazon automatisé par IA*
